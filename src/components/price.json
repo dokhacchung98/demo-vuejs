@@ -1,0 +1,4703 @@
+{
+    "Change": {
+        "USD": [
+            {
+                "Symbol": "EUR",
+                "Rate": 0.8958165367732688,
+                "RateYesterday": 0.8958165367732688
+            },
+            {
+                "Symbol": "JPY",
+                "Rate": 114.91534533727491,
+                "RateYesterday": 114.91534533727491
+            },
+            {
+                "Symbol": "GBP",
+                "Rate": 0.7476753560870733,
+                "RateYesterday": 0.7476753560870733
+            },
+            {
+                "Symbol": "SEK",
+                "Rate": 9.615515542416913,
+                "RateYesterday": 9.615515542416913
+            },
+            {
+                "Symbol": "CHF",
+                "Rate": 0.9244826659500134,
+                "RateYesterday": 0.9244826659500134
+            },
+            {
+                "Symbol": "NOK",
+                "Rate": 9.03681805966138,
+                "RateYesterday": 9.03681805966138
+            },
+            {
+                "Symbol": "AUD",
+                "Rate": 1.396846725790558,
+                "RateYesterday": 1.396846725790558
+            },
+            {
+                "Symbol": "CAD",
+                "Rate": 1.2824509540446116,
+                "RateYesterday": 1.2824509540446116
+            },
+            {
+                "Symbol": "CNY",
+                "Rate": 6.324554331272955,
+                "RateYesterday": 6.324554331272955
+            },
+            {
+                "Symbol": "KRW",
+                "Rate": 1207.2919466093344,
+                "RateYesterday": 1207.2919466093344
+            }
+        ]
+    },
+    "Coin": {
+        "Symbol": "BTC",
+        "Name": "Bitcoin",
+        "Price": 39280.841333097305,
+        "PriceYesterday": null,
+        "VolumeYesterdayUSD": 121685137.25602782,
+        "Time": "2022-02-25T14:02:19.638249674Z",
+        "CirculatingSupply": null,
+        "ITIN": "undefined"
+    },
+    "Rank": 0,
+    "Exchanges": [
+        {
+            "Name": "Bitmax",
+            "Price": 39409.812335111084,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 8741498.917024327,
+            "Time": "2022-02-25T13:54:12Z",
+            "LastTrades": [
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39348.97,
+                    "Volume": 0.00969,
+                    "Time": "2022-02-25T13:54:12Z",
+                    "ForeignTradeID": "72057632946522333",
+                    "EstimatedUSDPrice": 39367.85750559996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39354,
+                    "Volume": 0.001,
+                    "Time": "2022-02-25T13:54:05Z",
+                    "ForeignTradeID": "72057632946519201",
+                    "EstimatedUSDPrice": 39372.88991999996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39387.96,
+                    "Volume": 0.01404,
+                    "Time": "2022-02-25T13:53:55Z",
+                    "ForeignTradeID": "72057632946513265",
+                    "EstimatedUSDPrice": 39406.86622079996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39377.12,
+                    "Volume": 0.12094,
+                    "Time": "2022-02-25T13:53:54Z",
+                    "ForeignTradeID": "72057632946512223",
+                    "EstimatedUSDPrice": 39396.02101759996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39362.07,
+                    "Volume": 0.00479,
+                    "Time": "2022-02-25T13:53:53Z",
+                    "ForeignTradeID": "72057632946512147",
+                    "EstimatedUSDPrice": 39380.963793599956,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39359.58,
+                    "Volume": 0.01469,
+                    "Time": "2022-02-25T13:53:52Z",
+                    "ForeignTradeID": "72057632946511785",
+                    "EstimatedUSDPrice": 39378.47259839996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39353.81,
+                    "Volume": 0.00322,
+                    "Time": "2022-02-25T13:53:49Z",
+                    "ForeignTradeID": "72057632946510718",
+                    "EstimatedUSDPrice": 39372.69982879995,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39357.39,
+                    "Volume": 0.0015,
+                    "Time": "2022-02-25T13:53:47Z",
+                    "ForeignTradeID": "72057632946509838",
+                    "EstimatedUSDPrice": 39376.28154719996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39371.92,
+                    "Volume": 0.00073,
+                    "Time": "2022-02-25T13:53:43Z",
+                    "ForeignTradeID": "72057632946508625",
+                    "EstimatedUSDPrice": 39390.818521599955,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39345.39,
+                    "Volume": 0.005,
+                    "Time": "2022-02-25T13:53:37Z",
+                    "ForeignTradeID": "72057632946505773",
+                    "EstimatedUSDPrice": 39364.27578719996,
+                    "Source": "Bitmax"
+                }
+            ]
+        },
+        {
+            "Name": "Bitmax",
+            "Price": 39409.812335111084,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 8741498.917024327,
+            "Time": "2022-02-25T13:54:12Z",
+            "LastTrades": [
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39348.97,
+                    "Volume": 0.00969,
+                    "Time": "2022-02-25T13:54:12Z",
+                    "ForeignTradeID": "72057632946522333",
+                    "EstimatedUSDPrice": 39367.85750559996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39354,
+                    "Volume": 0.001,
+                    "Time": "2022-02-25T13:54:05Z",
+                    "ForeignTradeID": "72057632946519201",
+                    "EstimatedUSDPrice": 39372.88991999996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39387.96,
+                    "Volume": 0.01404,
+                    "Time": "2022-02-25T13:53:55Z",
+                    "ForeignTradeID": "72057632946513265",
+                    "EstimatedUSDPrice": 39406.86622079996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39377.12,
+                    "Volume": 0.12094,
+                    "Time": "2022-02-25T13:53:54Z",
+                    "ForeignTradeID": "72057632946512223",
+                    "EstimatedUSDPrice": 39396.02101759996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39362.07,
+                    "Volume": 0.00479,
+                    "Time": "2022-02-25T13:53:53Z",
+                    "ForeignTradeID": "72057632946512147",
+                    "EstimatedUSDPrice": 39380.963793599956,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39359.58,
+                    "Volume": 0.01469,
+                    "Time": "2022-02-25T13:53:52Z",
+                    "ForeignTradeID": "72057632946511785",
+                    "EstimatedUSDPrice": 39378.47259839996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39353.81,
+                    "Volume": 0.00322,
+                    "Time": "2022-02-25T13:53:49Z",
+                    "ForeignTradeID": "72057632946510718",
+                    "EstimatedUSDPrice": 39372.69982879995,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39357.39,
+                    "Volume": 0.0015,
+                    "Time": "2022-02-25T13:53:47Z",
+                    "ForeignTradeID": "72057632946509838",
+                    "EstimatedUSDPrice": 39376.28154719996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39371.92,
+                    "Volume": 0.00073,
+                    "Time": "2022-02-25T13:53:43Z",
+                    "ForeignTradeID": "72057632946508625",
+                    "EstimatedUSDPrice": 39390.818521599955,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39345.39,
+                    "Volume": 0.005,
+                    "Time": "2022-02-25T13:53:37Z",
+                    "ForeignTradeID": "72057632946505773",
+                    "EstimatedUSDPrice": 39364.27578719996,
+                    "Source": "Bitmax"
+                }
+            ]
+        },
+        {
+            "Name": "GateIO",
+            "Price": 39280.56791601664,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 109810022.6130966,
+            "Time": "2022-02-25T14:01:45Z",
+            "LastTrades": [
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC_USDT",
+                    "Price": 39211.98,
+                    "Volume": -0.002,
+                    "Time": "2022-02-25T14:01:45Z",
+                    "ForeignTradeID": "ad0c8816",
+                    "EstimatedUSDPrice": 39230.80175039996,
+                    "Source": "GateIO"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC_USDT",
+                    "Price": 39215.74,
+                    "Volume": -0.0066,
+                    "Time": "2022-02-25T14:01:44Z",
+                    "ForeignTradeID": "ad0c8807",
+                    "EstimatedUSDPrice": 39234.56355519996,
+                    "Source": "GateIO"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC_USDT",
+                    "Price": 39222.23,
+                    "Volume": 0.0017,
+                    "Time": "2022-02-25T14:01:41Z",
+                    "ForeignTradeID": "ad0c871e",
+                    "EstimatedUSDPrice": 39241.05667039996,
+                    "Source": "GateIO"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC_USDT",
+                    "Price": 39220.01,
+                    "Volume": -0.0057,
+                    "Time": "2022-02-25T14:01:40Z",
+                    "ForeignTradeID": "ad0c86a0",
+                    "EstimatedUSDPrice": 39238.83560479996,
+                    "Source": "GateIO"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC_USDT",
+                    "Price": 39223.78,
+                    "Volume": 0.002,
+                    "Time": "2022-02-25T14:01:35Z",
+                    "ForeignTradeID": "ad0c84f1",
+                    "EstimatedUSDPrice": 39242.60741439996,
+                    "Source": "GateIO"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC_USDT",
+                    "Price": 39210.32,
+                    "Volume": 0.0631,
+                    "Time": "2022-02-25T14:01:34Z",
+                    "ForeignTradeID": "ad0c84b9",
+                    "EstimatedUSDPrice": 39229.140953599956,
+                    "Source": "GateIO"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC_USDT",
+                    "Price": 39210.3,
+                    "Volume": 0.0631,
+                    "Time": "2022-02-25T14:01:33Z",
+                    "ForeignTradeID": "ad0c847e",
+                    "EstimatedUSDPrice": 39229.12094399996,
+                    "Source": "GateIO"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC_USDT",
+                    "Price": 39208.33,
+                    "Volume": -0.0078,
+                    "Time": "2022-02-25T14:01:32Z",
+                    "ForeignTradeID": "ad0c8423",
+                    "EstimatedUSDPrice": 39227.14999839996,
+                    "Source": "GateIO"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC_USDT",
+                    "Price": 39200,
+                    "Volume": 0.00139,
+                    "Time": "2022-02-25T14:01:31Z",
+                    "ForeignTradeID": "ad0c83ab",
+                    "EstimatedUSDPrice": 39218.815999999955,
+                    "Source": "GateIO"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC_USDT",
+                    "Price": 39182.96,
+                    "Volume": -0.0031,
+                    "Time": "2022-02-25T14:01:30Z",
+                    "ForeignTradeID": "ad0c82e1",
+                    "EstimatedUSDPrice": 39201.767820799956,
+                    "Source": "GateIO"
+                }
+            ]
+        },
+        {
+            "Name": "Bittrex",
+            "Price": 39351.211999999956,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 1178171.959209066,
+            "Time": "2022-02-25T13:58:57Z",
+            "LastTrades": [
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC-USDT",
+                    "Price": 39370.8,
+                    "Volume": 0.01281268,
+                    "Time": "2022-02-25T13:59:51Z",
+                    "ForeignTradeID": "1438a0a2",
+                    "EstimatedUSDPrice": 39389.69798399996,
+                    "Source": "Bittrex"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC-USDT",
+                    "Price": 39315.81160359,
+                    "Volume": 0.00315269,
+                    "Time": "2022-02-25T13:59:04Z",
+                    "ForeignTradeID": "1438a00c",
+                    "EstimatedUSDPrice": 39334.68319315968,
+                    "Source": "Bittrex"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC-USD",
+                    "Price": 39344.152,
+                    "Volume": 0.056928,
+                    "Time": "2022-02-25T13:58:57Z",
+                    "ForeignTradeID": "1438a000",
+                    "EstimatedUSDPrice": 39344.152,
+                    "Source": "Bittrex"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC-USD",
+                    "Price": 39352.839,
+                    "Volume": 0.05041075,
+                    "Time": "2022-02-25T13:58:46Z",
+                    "ForeignTradeID": "14389faf",
+                    "EstimatedUSDPrice": 39352.839,
+                    "Source": "Bittrex"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC-USDT",
+                    "Price": 39329.05024465,
+                    "Volume": 0.00290041,
+                    "Time": "2022-02-25T13:58:45Z",
+                    "ForeignTradeID": "14389f95",
+                    "EstimatedUSDPrice": 39347.92818876739,
+                    "Source": "Bittrex"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC-USD",
+                    "Price": 39352.839,
+                    "Volume": 0.00890862,
+                    "Time": "2022-02-25T13:58:45Z",
+                    "ForeignTradeID": "14389f99",
+                    "EstimatedUSDPrice": 39352.839,
+                    "Source": "Bittrex"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC-USD",
+                    "Price": 39351.212,
+                    "Volume": 0.03033607,
+                    "Time": "2022-02-25T13:58:25Z",
+                    "ForeignTradeID": "14389f00",
+                    "EstimatedUSDPrice": 39351.212,
+                    "Source": "Bittrex"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC-USDT",
+                    "Price": 39328.93201798,
+                    "Volume": 0.00068865,
+                    "Time": "2022-02-25T13:58:21Z",
+                    "ForeignTradeID": "14389ef5",
+                    "EstimatedUSDPrice": 39347.809905348586,
+                    "Source": "Bittrex"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC-USDT",
+                    "Price": 39328.93201798,
+                    "Volume": 0.001,
+                    "Time": "2022-02-25T13:58:19Z",
+                    "ForeignTradeID": "14389ef1",
+                    "EstimatedUSDPrice": 39347.809905348586,
+                    "Source": "Bittrex"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC-USD",
+                    "Price": 39373.528,
+                    "Volume": 0.00347652,
+                    "Time": "2022-02-25T13:57:22Z",
+                    "ForeignTradeID": "14389e40",
+                    "EstimatedUSDPrice": 39373.528,
+                    "Source": "Bittrex"
+                }
+            ]
+        },
+        {
+            "Name": "Bitmax",
+            "Price": 39409.812335111084,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 8741498.917024327,
+            "Time": "2022-02-25T13:54:12Z",
+            "LastTrades": [
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39348.97,
+                    "Volume": 0.00969,
+                    "Time": "2022-02-25T13:54:12Z",
+                    "ForeignTradeID": "72057632946522333",
+                    "EstimatedUSDPrice": 39367.85750559996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39354,
+                    "Volume": 0.001,
+                    "Time": "2022-02-25T13:54:05Z",
+                    "ForeignTradeID": "72057632946519201",
+                    "EstimatedUSDPrice": 39372.88991999996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39387.96,
+                    "Volume": 0.01404,
+                    "Time": "2022-02-25T13:53:55Z",
+                    "ForeignTradeID": "72057632946513265",
+                    "EstimatedUSDPrice": 39406.86622079996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39377.12,
+                    "Volume": 0.12094,
+                    "Time": "2022-02-25T13:53:54Z",
+                    "ForeignTradeID": "72057632946512223",
+                    "EstimatedUSDPrice": 39396.02101759996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39362.07,
+                    "Volume": 0.00479,
+                    "Time": "2022-02-25T13:53:53Z",
+                    "ForeignTradeID": "72057632946512147",
+                    "EstimatedUSDPrice": 39380.963793599956,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39359.58,
+                    "Volume": 0.01469,
+                    "Time": "2022-02-25T13:53:52Z",
+                    "ForeignTradeID": "72057632946511785",
+                    "EstimatedUSDPrice": 39378.47259839996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39353.81,
+                    "Volume": 0.00322,
+                    "Time": "2022-02-25T13:53:49Z",
+                    "ForeignTradeID": "72057632946510718",
+                    "EstimatedUSDPrice": 39372.69982879995,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39357.39,
+                    "Volume": 0.0015,
+                    "Time": "2022-02-25T13:53:47Z",
+                    "ForeignTradeID": "72057632946509838",
+                    "EstimatedUSDPrice": 39376.28154719996,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39371.92,
+                    "Volume": 0.00073,
+                    "Time": "2022-02-25T13:53:43Z",
+                    "ForeignTradeID": "72057632946508625",
+                    "EstimatedUSDPrice": 39390.818521599955,
+                    "Source": "Bitmax"
+                },
+                {
+                    "Symbol": "BTC",
+                    "Pair": "BTC/USDT",
+                    "Price": 39345.39,
+                    "Volume": 0.005,
+                    "Time": "2022-02-25T13:53:37Z",
+                    "ForeignTradeID": "72057632946505773",
+                    "EstimatedUSDPrice": 39364.27578719996,
+                    "Source": "Bitmax"
+                }
+            ]
+        }
+    ],
+    "Gfx1": {
+        "DataPoints": [
+            {
+                "statement_id": 0,
+                "Series": [
+                    {
+                        "name": "filters",
+                        "columns": [
+                            "time",
+                            "exchange",
+                            "filter",
+                            "symbol",
+                            "value"
+                        ],
+                        "values": [
+                            [
+                                "2022-02-25T14:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39280.2681495466
+                            ],
+                            [
+                                "2022-02-25T14:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39353.49672598666
+                            ],
+                            [
+                                "2022-02-25T13:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39366.898378773316
+                            ],
+                            [
+                                "2022-02-25T13:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39359.995280898685
+                            ],
+                            [
+                                "2022-02-25T13:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39425.128649226644
+                            ],
+                            [
+                                "2022-02-25T13:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39442.69874549329
+                            ],
+                            [
+                                "2022-02-25T13:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39445.46590642659
+                            ],
+                            [
+                                "2022-02-25T13:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39465.34419342663
+                            ],
+                            [
+                                "2022-02-25T13:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39529.75100194662
+                            ],
+                            [
+                                "2022-02-25T13:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39625.787886501625
+                            ],
+                            [
+                                "2022-02-25T13:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39638.61032126662
+                            ],
+                            [
+                                "2022-02-25T13:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39600.31736613328
+                            ],
+                            [
+                                "2022-02-25T13:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39633.71530611991
+                            ],
+                            [
+                                "2022-02-25T13:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39586.83939981331
+                            ],
+                            [
+                                "2022-02-25T13:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39411.60574467999
+                            ],
+                            [
+                                "2022-02-25T13:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39348.38757952731
+                            ],
+                            [
+                                "2022-02-25T13:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39344.675050026635
+                            ],
+                            [
+                                "2022-02-25T13:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39362.765729386585
+                            ],
+                            [
+                                "2022-02-25T13:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39410.37783031996
+                            ],
+                            [
+                                "2022-02-25T13:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39403.51886483995
+                            ],
+                            [
+                                "2022-02-25T13:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39359.67416281331
+                            ],
+                            [
+                                "2022-02-25T13:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39309.313785724975
+                            ],
+                            [
+                                "2022-02-25T13:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39321.24465023089
+                            ],
+                            [
+                                "2022-02-25T13:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39352.98789929836
+                            ],
+                            [
+                                "2022-02-25T13:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39362.62744620839
+                            ],
+                            [
+                                "2022-02-25T13:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39393.49132026001
+                            ],
+                            [
+                                "2022-02-25T13:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39442.61219236498
+                            ],
+                            [
+                                "2022-02-25T13:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39385.35473766337
+                            ],
+                            [
+                                "2022-02-25T13:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39306.40392557673
+                            ],
+                            [
+                                "2022-02-25T13:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39323.08615384835
+                            ],
+                            [
+                                "2022-02-25T13:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39351.51930594169
+                            ],
+                            [
+                                "2022-02-25T13:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39371.03478859838
+                            ],
+                            [
+                                "2022-02-25T12:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39384.856028293354
+                            ],
+                            [
+                                "2022-02-25T12:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39294.20772538085
+                            ],
+                            [
+                                "2022-02-25T12:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39114.64657922005
+                            ],
+                            [
+                                "2022-02-25T12:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38945.7610306909
+                            ],
+                            [
+                                "2022-02-25T12:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38881.33946105847
+                            ],
+                            [
+                                "2022-02-25T12:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38893.43358105847
+                            ],
+                            [
+                                "2022-02-25T12:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38907.84244730509
+                            ],
+                            [
+                                "2022-02-25T12:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38887.01787030509
+                            ],
+                            [
+                                "2022-02-25T12:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38865.59148137013
+                            ],
+                            [
+                                "2022-02-25T12:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38824.79111645412
+                            ],
+                            [
+                                "2022-02-25T12:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38819.27905600012
+                            ],
+                            [
+                                "2022-02-25T12:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38865.12439458059
+                            ],
+                            [
+                                "2022-02-25T12:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38853.360886413924
+                            ],
+                            [
+                                "2022-02-25T12:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38838.15380901516
+                            ],
+                            [
+                                "2022-02-25T12:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38869.2748805301
+                            ],
+                            [
+                                "2022-02-25T12:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38852.57469438823
+                            ],
+                            [
+                                "2022-02-25T12:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38846.509232870136
+                            ],
+                            [
+                                "2022-02-25T12:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38869.48402839338
+                            ],
+                            [
+                                "2022-02-25T12:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38901.62151343662
+                            ],
+                            [
+                                "2022-02-25T12:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38945.786838835804
+                            ],
+                            [
+                                "2022-02-25T12:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38976.308756469145
+                            ],
+                            [
+                                "2022-02-25T12:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38968.25211144458
+                            ],
+                            [
+                                "2022-02-25T12:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38971.0700888486
+                            ],
+                            [
+                                "2022-02-25T12:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39035.830230313106
+                            ],
+                            [
+                                "2022-02-25T12:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38952.498784486954
+                            ],
+                            [
+                                "2022-02-25T12:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38883.44732101159
+                            ],
+                            [
+                                "2022-02-25T12:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38909.13650351646
+                            ],
+                            [
+                                "2022-02-25T12:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38850.80247820322
+                            ],
+                            [
+                                "2022-02-25T12:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38805.94228604324
+                            ],
+                            [
+                                "2022-02-25T12:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38787.26947536006
+                            ],
+                            [
+                                "2022-02-25T11:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38741.312748533375
+                            ],
+                            [
+                                "2022-02-25T11:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38714.186468672815
+                            ],
+                            [
+                                "2022-02-25T11:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38700.6063613421
+                            ],
+                            [
+                                "2022-02-25T11:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38684.48437896705
+                            ],
+                            [
+                                "2022-02-25T11:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38669.67213335749
+                            ],
+                            [
+                                "2022-02-25T11:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38674.3503414859
+                            ],
+                            [
+                                "2022-02-25T11:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38642.97752059208
+                            ],
+                            [
+                                "2022-02-25T11:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38639.30030434165
+                            ],
+                            [
+                                "2022-02-25T11:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38679.09472012079
+                            ],
+                            [
+                                "2022-02-25T11:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38685.11683639827
+                            ],
+                            [
+                                "2022-02-25T11:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38672.662310024985
+                            ],
+                            [
+                                "2022-02-25T11:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38660.72702247744
+                            ],
+                            [
+                                "2022-02-25T11:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38587.86319235704
+                            ],
+                            [
+                                "2022-02-25T11:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38568.62690309987
+                            ],
+                            [
+                                "2022-02-25T11:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38566.8227411504
+                            ],
+                            [
+                                "2022-02-25T11:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38576.09809510492
+                            ],
+                            [
+                                "2022-02-25T11:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38500.715848345186
+                            ],
+                            [
+                                "2022-02-25T11:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38459.36041786495
+                            ],
+                            [
+                                "2022-02-25T11:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38442.48443731002
+                            ],
+                            [
+                                "2022-02-25T11:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38419.85551580013
+                            ],
+                            [
+                                "2022-02-25T11:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38451.75720544741
+                            ],
+                            [
+                                "2022-02-25T11:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38462.053659173886
+                            ],
+                            [
+                                "2022-02-25T11:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38450.41970868755
+                            ],
+                            [
+                                "2022-02-25T11:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38428.710284234934
+                            ],
+                            [
+                                "2022-02-25T11:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38440.01772340494
+                            ],
+                            [
+                                "2022-02-25T11:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38445.43983805324
+                            ],
+                            [
+                                "2022-02-25T11:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38499.24618886661
+                            ],
+                            [
+                                "2022-02-25T11:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38557.85980990667
+                            ],
+                            [
+                                "2022-02-25T11:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38577.37558965329
+                            ],
+                            [
+                                "2022-02-25T11:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38562.08491420968
+                            ],
+                            [
+                                "2022-02-25T10:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38550.045227373324
+                            ],
+                            [
+                                "2022-02-25T10:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38590.117869679976
+                            ],
+                            [
+                                "2022-02-25T10:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38611.038110335685
+                            ],
+                            [
+                                "2022-02-25T10:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38601.28723567999
+                            ],
+                            [
+                                "2022-02-25T10:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38564.49782569946
+                            ],
+                            [
+                                "2022-02-25T10:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38549.13176452629
+                            ],
+                            [
+                                "2022-02-25T10:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38563.49547458197
+                            ],
+                            [
+                                "2022-02-25T10:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38581.97253031556
+                            ],
+                            [
+                                "2022-02-25T10:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38609.17139124442
+                            ],
+                            [
+                                "2022-02-25T10:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38621.275900513836
+                            ],
+                            [
+                                "2022-02-25T10:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38616.267870806645
+                            ],
+                            [
+                                "2022-02-25T10:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38637.093904832516
+                            ],
+                            [
+                                "2022-02-25T10:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38665.09159282006
+                            ],
+                            [
+                                "2022-02-25T10:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38655.66250796256
+                            ],
+                            [
+                                "2022-02-25T10:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38624.41773998509
+                            ],
+                            [
+                                "2022-02-25T10:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38600.867574692566
+                            ],
+                            [
+                                "2022-02-25T10:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38609.33418823256
+                            ],
+                            [
+                                "2022-02-25T10:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38593.64137304834
+                            ],
+                            [
+                                "2022-02-25T10:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38591.98286227004
+                            ],
+                            [
+                                "2022-02-25T10:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38580.10849480342
+                            ],
+                            [
+                                "2022-02-25T10:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38615.71767592926
+                            ],
+                            [
+                                "2022-02-25T10:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38636.85860861006
+                            ],
+                            [
+                                "2022-02-25T10:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38599.97875214325
+                            ],
+                            [
+                                "2022-02-25T10:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38571.83584091078
+                            ],
+                            [
+                                "2022-02-25T10:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38574.178868388415
+                            ],
+                            [
+                                "2022-02-25T10:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38597.831028111774
+                            ],
+                            [
+                                "2022-02-25T10:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38592.47050980674
+                            ],
+                            [
+                                "2022-02-25T10:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38641.10744571173
+                            ],
+                            [
+                                "2022-02-25T10:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38703.724035798645
+                            ],
+                            [
+                                "2022-02-25T10:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38633.68458899427
+                            ],
+                            [
+                                "2022-02-25T09:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38448.15546097116
+                            ],
+                            [
+                                "2022-02-25T09:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38343.22644491201
+                            ],
+                            [
+                                "2022-02-25T09:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38351.648091363946
+                            ],
+                            [
+                                "2022-02-25T09:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38325.58870356424
+                            ],
+                            [
+                                "2022-02-25T09:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38315.25676586761
+                            ],
+                            [
+                                "2022-02-25T09:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38290.523400754224
+                            ],
+                            [
+                                "2022-02-25T09:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38243.205995488424
+                            ],
+                            [
+                                "2022-02-25T09:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38219.0789122134
+                            ],
+                            [
+                                "2022-02-25T09:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38232.683184089256
+                            ],
+                            [
+                                "2022-02-25T09:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38234.26221315926
+                            ],
+                            [
+                                "2022-02-25T09:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38205.11734335259
+                            ],
+                            [
+                                "2022-02-25T09:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38171.347094890916
+                            ],
+                            [
+                                "2022-02-25T09:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38131.89589753632
+                            ],
+                            [
+                                "2022-02-25T09:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38080.91616627841
+                            ],
+                            [
+                                "2022-02-25T09:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38065.89974703409
+                            ],
+                            [
+                                "2022-02-25T09:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38079.28844040256
+                            ],
+                            [
+                                "2022-02-25T09:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38183.71177706756
+                            ],
+                            [
+                                "2022-02-25T09:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38241.12012430553
+                            ],
+                            [
+                                "2022-02-25T09:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38281.931212496595
+                            ],
+                            [
+                                "2022-02-25T09:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38272.992820576765
+                            ],
+                            [
+                                "2022-02-25T09:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38278.91277848841
+                            ],
+                            [
+                                "2022-02-25T09:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38252.97360098091
+                            ],
+                            [
+                                "2022-02-25T09:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38273.56338445987
+                            ],
+                            [
+                                "2022-02-25T09:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38292.39535787755
+                            ],
+                            [
+                                "2022-02-25T09:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38301.49053893032
+                            ],
+                            [
+                                "2022-02-25T09:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38309.31980472591
+                            ],
+                            [
+                                "2022-02-25T09:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38370.874414546764
+                            ],
+                            [
+                                "2022-02-25T09:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38429.12203826842
+                            ],
+                            [
+                                "2022-02-25T09:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38393.77190753334
+                            ],
+                            [
+                                "2022-02-25T09:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38386.15167907587
+                            ],
+                            [
+                                "2022-02-25T08:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38406.808789272494
+                            ],
+                            [
+                                "2022-02-25T08:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38428.529402255
+                            ],
+                            [
+                                "2022-02-25T08:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38428.21398378166
+                            ],
+                            [
+                                "2022-02-25T08:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38380.83102717001
+                            ],
+                            [
+                                "2022-02-25T08:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38377.83046723748
+                            ],
+                            [
+                                "2022-02-25T08:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38379.03395875916
+                            ],
+                            [
+                                "2022-02-25T08:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38338.4234202358
+                            ],
+                            [
+                                "2022-02-25T08:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38316.42407536916
+                            ],
+                            [
+                                "2022-02-25T08:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38332.425276281756
+                            ],
+                            [
+                                "2022-02-25T08:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38338.826449479086
+                            ],
+                            [
+                                "2022-02-25T08:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38346.69793494841
+                            ],
+                            [
+                                "2022-02-25T08:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38380.908380636734
+                            ],
+                            [
+                                "2022-02-25T08:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38374.79306328177
+                            ],
+                            [
+                                "2022-02-25T08:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38327.95123130505
+                            ],
+                            [
+                                "2022-02-25T08:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38266.0275676184
+                            ],
+                            [
+                                "2022-02-25T08:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38258.22787645672
+                            ],
+                            [
+                                "2022-02-25T08:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38274.62077256504
+                            ],
+                            [
+                                "2022-02-25T08:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38279.83827709358
+                            ],
+                            [
+                                "2022-02-25T08:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38323.581482446585
+                            ],
+                            [
+                                "2022-02-25T08:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38324.12563287755
+                            ],
+                            [
+                                "2022-02-25T08:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38257.556565437575
+                            ],
+                            [
+                                "2022-02-25T08:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38306.709973848294
+                            ],
+                            [
+                                "2022-02-25T08:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38355.88454473756
+                            ],
+                            [
+                                "2022-02-25T08:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38377.72659061257
+                            ],
+                            [
+                                "2022-02-25T08:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38420.49272442006
+                            ],
+                            [
+                                "2022-02-25T08:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38475.03152705669
+                            ],
+                            [
+                                "2022-02-25T08:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38504.87464706506
+                            ],
+                            [
+                                "2022-02-25T08:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38462.541435197556
+                            ],
+                            [
+                                "2022-02-25T08:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38467.369596526725
+                            ],
+                            [
+                                "2022-02-25T08:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38451.681313710884
+                            ],
+                            [
+                                "2022-02-25T07:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38459.908394428385
+                            ],
+                            [
+                                "2022-02-25T07:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38542.62390599506
+                            ],
+                            [
+                                "2022-02-25T07:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38553.27481416212
+                            ],
+                            [
+                                "2022-02-25T07:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38576.471475455626
+                            ],
+                            [
+                                "2022-02-25T07:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38621.581713632564
+                            ],
+                            [
+                                "2022-02-25T07:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38623.592315855036
+                            ],
+                            [
+                                "2022-02-25T07:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38597.141517212054
+                            ],
+                            [
+                                "2022-02-25T07:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38574.374377727574
+                            ],
+                            [
+                                "2022-02-25T07:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38537.759704475044
+                            ],
+                            [
+                                "2022-02-25T07:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38526.84212718504
+                            ],
+                            [
+                                "2022-02-25T07:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38551.28134100006
+                            ],
+                            [
+                                "2022-02-25T07:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38539.10896868884
+                            ],
+                            [
+                                "2022-02-25T07:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38524.161788000034
+                            ],
+                            [
+                                "2022-02-25T07:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38528.73223875005
+                            ],
+                            [
+                                "2022-02-25T07:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38565.848433166735
+                            ],
+                            [
+                                "2022-02-25T07:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38572.185026266845
+                            ],
+                            [
+                                "2022-02-25T07:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38580.48768687509
+                            ],
+                            [
+                                "2022-02-25T07:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38566.16177750008
+                            ],
+                            [
+                                "2022-02-25T07:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38599.231032197546
+                            ],
+                            [
+                                "2022-02-25T07:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38605.48527578583
+                            ],
+                            [
+                                "2022-02-25T07:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38606.09822334499
+                            ],
+                            [
+                                "2022-02-25T07:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38615.589204981654
+                            ],
+                            [
+                                "2022-02-25T07:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38631.77322305901
+                            ],
+                            [
+                                "2022-02-25T07:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38620.96826455571
+                            ],
+                            [
+                                "2022-02-25T07:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38613.368010233295
+                            ],
+                            [
+                                "2022-02-25T07:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38667.83437591078
+                            ],
+                            [
+                                "2022-02-25T07:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38765.070581649976
+                            ],
+                            [
+                                "2022-02-25T07:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38752.56038816253
+                            ],
+                            [
+                                "2022-02-25T07:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38702.29200199256
+                            ],
+                            [
+                                "2022-02-25T07:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38733.61065720507
+                            ],
+                            [
+                                "2022-02-25T06:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38734.833345015155
+                            ],
+                            [
+                                "2022-02-25T06:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38699.0023737126
+                            ],
+                            [
+                                "2022-02-25T06:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38681.50780175764
+                            ],
+                            [
+                                "2022-02-25T06:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38665.66920364837
+                            ],
+                            [
+                                "2022-02-25T06:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38675.33209589995
+                            ],
+                            [
+                                "2022-02-25T06:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38686.949408938315
+                            ],
+                            [
+                                "2022-02-25T06:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38678.86252705832
+                            ],
+                            [
+                                "2022-02-25T06:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38696.429681288355
+                            ],
+                            [
+                                "2022-02-25T06:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38661.617747921606
+                            ],
+                            [
+                                "2022-02-25T06:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38643.487285012474
+                            ],
+                            [
+                                "2022-02-25T06:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38614.95839603662
+                            ],
+                            [
+                                "2022-02-25T06:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38559.888906220345
+                            ],
+                            [
+                                "2022-02-25T06:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38563.0887423542
+                            ],
+                            [
+                                "2022-02-25T06:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38591.70827167611
+                            ],
+                            [
+                                "2022-02-25T06:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38602.10360027166
+                            ],
+                            [
+                                "2022-02-25T06:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38613.31058900663
+                            ],
+                            [
+                                "2022-02-25T06:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38641.91033282581
+                            ],
+                            [
+                                "2022-02-25T06:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38683.821989760036
+                            ],
+                            [
+                                "2022-02-25T06:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38683.633352785015
+                            ],
+                            [
+                                "2022-02-25T06:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38662.328472858346
+                            ],
+                            [
+                                "2022-02-25T06:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38622.091183713645
+                            ],
+                            [
+                                "2022-02-25T06:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38603.28010394837
+                            ],
+                            [
+                                "2022-02-25T06:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38589.81312333616
+                            ],
+                            [
+                                "2022-02-25T06:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38545.37088748116
+                            ],
+                            [
+                                "2022-02-25T06:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38488.208915710005
+                            ],
+                            [
+                                "2022-02-25T06:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38425.34373683498
+                            ],
+                            [
+                                "2022-02-25T06:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38444.52275458169
+                            ],
+                            [
+                                "2022-02-25T06:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38449.02718566169
+                            ],
+                            [
+                                "2022-02-25T06:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38471.33493256731
+                            ],
+                            [
+                                "2022-02-25T06:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38486.15945763814
+                            ],
+                            [
+                                "2022-02-25T05:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38508.71856827836
+                            ],
+                            [
+                                "2022-02-25T05:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38514.308752015
+                            ],
+                            [
+                                "2022-02-25T05:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38564.988128367266
+                            ],
+                            [
+                                "2022-02-25T05:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38585.28847704667
+                            ],
+                            [
+                                "2022-02-25T05:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38593.32323013837
+                            ],
+                            [
+                                "2022-02-25T05:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38589.62615220506
+                            ],
+                            [
+                                "2022-02-25T05:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38583.31789967389
+                            ],
+                            [
+                                "2022-02-25T05:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38588.79028366836
+                            ],
+                            [
+                                "2022-02-25T05:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38575.073213781674
+                            ],
+                            [
+                                "2022-02-25T05:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38569.18449193777
+                            ],
+                            [
+                                "2022-02-25T05:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38558.518612455046
+                            ],
+                            [
+                                "2022-02-25T05:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38549.28304460668
+                            ],
+                            [
+                                "2022-02-25T05:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38549.07760039336
+                            ],
+                            [
+                                "2022-02-25T05:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38520.16874803831
+                            ],
+                            [
+                                "2022-02-25T05:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38534.906868995036
+                            ],
+                            [
+                                "2022-02-25T05:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38562.874447174974
+                            ],
+                            [
+                                "2022-02-25T05:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38576.52486019325
+                            ],
+                            [
+                                "2022-02-25T05:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38556.63467901336
+                            ],
+                            [
+                                "2022-02-25T05:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38531.642690623376
+                            ],
+                            [
+                                "2022-02-25T05:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38508.70005828837
+                            ],
+                            [
+                                "2022-02-25T05:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38435.09140238037
+                            ],
+                            [
+                                "2022-02-25T05:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38415.70282837485
+                            ],
+                            [
+                                "2022-02-25T05:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38433.78766821839
+                            ],
+                            [
+                                "2022-02-25T05:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38409.96652847667
+                            ],
+                            [
+                                "2022-02-25T05:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38523.1218948314
+                            ],
+                            [
+                                "2022-02-25T05:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38579.58288891814
+                            ],
+                            [
+                                "2022-02-25T05:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38698.448511283364
+                            ],
+                            [
+                                "2022-02-25T05:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38764.35306171667
+                            ],
+                            [
+                                "2022-02-25T05:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38753.81352574415
+                            ],
+                            [
+                                "2022-02-25T05:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38765.154121405096
+                            ],
+                            [
+                                "2022-02-25T04:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38798.96823381215
+                            ],
+                            [
+                                "2022-02-25T04:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38795.553296342536
+                            ],
+                            [
+                                "2022-02-25T04:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38774.916044210106
+                            ],
+                            [
+                                "2022-02-25T04:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38762.55595090864
+                            ],
+                            [
+                                "2022-02-25T04:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38727.435297087526
+                            ],
+                            [
+                                "2022-02-25T04:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38734.676400152544
+                            ],
+                            [
+                                "2022-02-25T04:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38726.312109983315
+                            ],
+                            [
+                                "2022-02-25T04:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38725.11442858255
+                            ],
+                            [
+                                "2022-02-25T04:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38699.32979887329
+                            ],
+                            [
+                                "2022-02-25T04:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38710.40717308511
+                            ],
+                            [
+                                "2022-02-25T04:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38732.156322662595
+                            ],
+                            [
+                                "2022-02-25T04:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38750.855356775
+                            ],
+                            [
+                                "2022-02-25T04:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38788.56609299008
+                            ],
+                            [
+                                "2022-02-25T04:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38814.64446094422
+                            ],
+                            [
+                                "2022-02-25T04:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38806.59119707918
+                            ],
+                            [
+                                "2022-02-25T04:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38786.43817422504
+                            ],
+                            [
+                                "2022-02-25T04:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38777.77572030252
+                            ],
+                            [
+                                "2022-02-25T04:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38786.923270310865
+                            ],
+                            [
+                                "2022-02-25T04:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38791.77065184182
+                            ],
+                            [
+                                "2022-02-25T04:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38835.856248168326
+                            ],
+                            [
+                                "2022-02-25T04:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38861.69499749325
+                            ],
+                            [
+                                "2022-02-25T04:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38845.52582334662
+                            ],
+                            [
+                                "2022-02-25T04:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38843.17311125329
+                            ],
+                            [
+                                "2022-02-25T04:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38849.62370605326
+                            ],
+                            [
+                                "2022-02-25T04:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38910.0127622266
+                            ],
+                            [
+                                "2022-02-25T04:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38927.42628337325
+                            ],
+                            [
+                                "2022-02-25T04:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38906.550601186646
+                            ],
+                            [
+                                "2022-02-25T04:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38898.89465305357
+                            ],
+                            [
+                                "2022-02-25T04:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38921.7082238474
+                            ],
+                            [
+                                "2022-02-25T04:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38933.5642281733
+                            ],
+                            [
+                                "2022-02-25T03:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38950.524285931555
+                            ],
+                            [
+                                "2022-02-25T03:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38938.070524413306
+                            ],
+                            [
+                                "2022-02-25T03:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38878.46612710664
+                            ],
+                            [
+                                "2022-02-25T03:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38860.16092815996
+                            ],
+                            [
+                                "2022-02-25T03:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38809.7503260133
+                            ],
+                            [
+                                "2022-02-25T03:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38813.251836947755
+                            ],
+                            [
+                                "2022-02-25T03:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38830.14202599994
+                            ],
+                            [
+                                "2022-02-25T03:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38836.186592666636
+                            ],
+                            [
+                                "2022-02-25T03:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38742.148919864565
+                            ],
+                            [
+                                "2022-02-25T03:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38648.99535859611
+                            ],
+                            [
+                                "2022-02-25T03:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38620.55944664755
+                            ],
+                            [
+                                "2022-02-25T03:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38613.91185203339
+                            ],
+                            [
+                                "2022-02-25T03:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38582.075731965706
+                            ],
+                            [
+                                "2022-02-25T03:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38561.64255740002
+                            ],
+                            [
+                                "2022-02-25T03:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38576.481005966656
+                            ],
+                            [
+                                "2022-02-25T03:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38569.45553023331
+                            ],
+                            [
+                                "2022-02-25T03:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38561.78362936665
+                            ],
+                            [
+                                "2022-02-25T03:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38592.2147136
+                            ],
+                            [
+                                "2022-02-25T03:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38627.41968801108
+                            ],
+                            [
+                                "2022-02-25T03:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38650.7748407092
+                            ],
+                            [
+                                "2022-02-25T03:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38693.62606783329
+                            ],
+                            [
+                                "2022-02-25T03:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38777.88245099992
+                            ],
+                            [
+                                "2022-02-25T03:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38818.67036646666
+                            ],
+                            [
+                                "2022-02-25T03:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38775.67425518499
+                            ],
+                            [
+                                "2022-02-25T03:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38749.01198267169
+                            ],
+                            [
+                                "2022-02-25T03:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38754.98419454663
+                            ],
+                            [
+                                "2022-02-25T03:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38751.22472974506
+                            ],
+                            [
+                                "2022-02-25T03:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38757.87240112855
+                            ],
+                            [
+                                "2022-02-25T03:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38788.33846756004
+                            ],
+                            [
+                                "2022-02-25T03:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38790.10764206005
+                            ],
+                            [
+                                "2022-02-25T02:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38791.51698022006
+                            ],
+                            [
+                                "2022-02-25T02:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38782.84773343341
+                            ],
+                            [
+                                "2022-02-25T02:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38791.232828706714
+                            ],
+                            [
+                                "2022-02-25T02:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38773.71305508384
+                            ],
+                            [
+                                "2022-02-25T02:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38755.67287970006
+                            ],
+                            [
+                                "2022-02-25T02:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38702.459361520065
+                            ],
+                            [
+                                "2022-02-25T02:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38702.09827488006
+                            ],
+                            [
+                                "2022-02-25T02:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38740.16532544672
+                            ],
+                            [
+                                "2022-02-25T02:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38756.51333136014
+                            ],
+                            [
+                                "2022-02-25T02:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38698.22159470004
+                            ],
+                            [
+                                "2022-02-25T02:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38678.68882462675
+                            ],
+                            [
+                                "2022-02-25T02:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38681.534674133385
+                            ],
+                            [
+                                "2022-02-25T02:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38659.86330758676
+                            ],
+                            [
+                                "2022-02-25T02:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38682.47022412206
+                            ],
+                            [
+                                "2022-02-25T02:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38697.80339825024
+                            ],
+                            [
+                                "2022-02-25T02:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38673.525293133454
+                            ],
+                            [
+                                "2022-02-25T02:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38663.81186547003
+                            ],
+                            [
+                                "2022-02-25T02:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38662.2712850123
+                            ],
+                            [
+                                "2022-02-25T02:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38656.37685000587
+                            ],
+                            [
+                                "2022-02-25T02:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38565.5566703367
+                            ],
+                            [
+                                "2022-02-25T02:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38555.908512490845
+                            ],
+                            [
+                                "2022-02-25T02:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38544.18604865506
+                            ],
+                            [
+                                "2022-02-25T02:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38526.59614065667
+                            ],
+                            [
+                                "2022-02-25T02:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38550.506111120856
+                            ],
+                            [
+                                "2022-02-25T02:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38566.11902201675
+                            ],
+                            [
+                                "2022-02-25T02:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38633.27125828352
+                            ],
+                            [
+                                "2022-02-25T02:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38647.947405970146
+                            ],
+                            [
+                                "2022-02-25T02:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38658.39040586253
+                            ],
+                            [
+                                "2022-02-25T02:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38604.977835993406
+                            ],
+                            [
+                                "2022-02-25T02:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38528.43656984589
+                            ],
+                            [
+                                "2022-02-25T01:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38488.11693398007
+                            ],
+                            [
+                                "2022-02-25T01:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38513.51179542425
+                            ],
+                            [
+                                "2022-02-25T01:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38489.83122448918
+                            ],
+                            [
+                                "2022-02-25T01:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38464.71158439347
+                            ],
+                            [
+                                "2022-02-25T01:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38472.89819746592
+                            ],
+                            [
+                                "2022-02-25T01:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38477.161849735094
+                            ],
+                            [
+                                "2022-02-25T01:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38466.95122702674
+                            ],
+                            [
+                                "2022-02-25T01:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38474.58316877843
+                            ],
+                            [
+                                "2022-02-25T01:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38485.69587176808
+                            ],
+                            [
+                                "2022-02-25T01:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38550.90445983507
+                            ],
+                            [
+                                "2022-02-25T01:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38561.724967352566
+                            ],
+                            [
+                                "2022-02-25T01:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38539.60964604828
+                            ],
+                            [
+                                "2022-02-25T01:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38603.13573292503
+                            ],
+                            [
+                                "2022-02-25T01:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38665.2753913115
+                            ],
+                            [
+                                "2022-02-25T01:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38653.99596706755
+                            ],
+                            [
+                                "2022-02-25T01:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38647.711682120025
+                            ],
+                            [
+                                "2022-02-25T01:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38758.329333346686
+                            ],
+                            [
+                                "2022-02-25T01:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38838.772509743365
+                            ],
+                            [
+                                "2022-02-25T01:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38569.06328114469
+                            ],
+                            [
+                                "2022-02-25T01:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38453.33613591669
+                            ],
+                            [
+                                "2022-02-25T01:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38423.74598729667
+                            ],
+                            [
+                                "2022-02-25T01:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38374.6348136367
+                            ],
+                            [
+                                "2022-02-25T01:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38355.751168780036
+                            ],
+                            [
+                                "2022-02-25T01:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38330.75675302333
+                            ],
+                            [
+                                "2022-02-25T01:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38333.36237757335
+                            ],
+                            [
+                                "2022-02-25T01:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38323.4503937814
+                            ],
+                            [
+                                "2022-02-25T01:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38280.78042369669
+                            ],
+                            [
+                                "2022-02-25T01:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38221.193516992615
+                            ],
+                            [
+                                "2022-02-25T01:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38247.27316326172
+                            ],
+                            [
+                                "2022-02-25T01:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38266.2018714194
+                            ],
+                            [
+                                "2022-02-25T00:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38276.19435276302
+                            ],
+                            [
+                                "2022-02-25T00:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38298.106109393404
+                            ],
+                            [
+                                "2022-02-25T00:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38350.04598004175
+                            ],
+                            [
+                                "2022-02-25T00:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38413.01329753753
+                            ],
+                            [
+                                "2022-02-25T00:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38447.92363683507
+                            ],
+                            [
+                                "2022-02-25T00:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38453.83861239007
+                            ],
+                            [
+                                "2022-02-25T00:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38430.91529586337
+                            ],
+                            [
+                                "2022-02-25T00:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38481.645410075784
+                            ],
+                            [
+                                "2022-02-25T00:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38517.7695381208
+                            ],
+                            [
+                                "2022-02-25T00:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38532.32583273046
+                            ],
+                            [
+                                "2022-02-25T00:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38566.3232591789
+                            ],
+                            [
+                                "2022-02-25T00:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38618.53123830342
+                            ],
+                            [
+                                "2022-02-25T00:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38613.55197999254
+                            ],
+                            [
+                                "2022-02-25T00:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38669.92549714589
+                            ],
+                            [
+                                "2022-02-25T00:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38725.38676208742
+                            ],
+                            [
+                                "2022-02-25T00:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38730.97936248665
+                            ],
+                            [
+                                "2022-02-25T00:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38608.66057087665
+                            ],
+                            [
+                                "2022-02-25T00:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38508.865773698155
+                            ],
+                            [
+                                "2022-02-25T00:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38489.738107659985
+                            ],
+                            [
+                                "2022-02-25T00:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38449.717052580025
+                            ],
+                            [
+                                "2022-02-25T00:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38465.56810198165
+                            ],
+                            [
+                                "2022-02-25T00:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38479.66621881013
+                            ],
+                            [
+                                "2022-02-25T00:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38435.01392405007
+                            ],
+                            [
+                                "2022-02-25T00:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38507.50397733763
+                            ],
+                            [
+                                "2022-02-25T00:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38445.76120736757
+                            ],
+                            [
+                                "2022-02-25T00:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38333.03902897504
+                            ],
+                            [
+                                "2022-02-25T00:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38312.09947678008
+                            ],
+                            [
+                                "2022-02-25T00:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38314.7877424146
+                            ],
+                            [
+                                "2022-02-25T00:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38357.14578843255
+                            ],
+                            [
+                                "2022-02-25T00:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38367.16676222487
+                            ],
+                            [
+                                "2022-02-24T23:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38348.922105987534
+                            ],
+                            [
+                                "2022-02-24T23:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38308.76872103337
+                            ],
+                            [
+                                "2022-02-24T23:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38310.40322658262
+                            ],
+                            [
+                                "2022-02-24T23:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38341.87050342782
+                            ],
+                            [
+                                "2022-02-24T23:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38343.79084838074
+                            ],
+                            [
+                                "2022-02-24T23:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38368.51649046251
+                            ],
+                            [
+                                "2022-02-24T23:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38334.57080843715
+                            ],
+                            [
+                                "2022-02-24T23:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38319.06925319011
+                            ],
+                            [
+                                "2022-02-24T23:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38334.947697900076
+                            ],
+                            [
+                                "2022-02-24T23:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38304.17847281012
+                            ],
+                            [
+                                "2022-02-24T23:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38278.7411403001
+                            ],
+                            [
+                                "2022-02-24T23:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38251.11590246418
+                            ],
+                            [
+                                "2022-02-24T23:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38232.128154855054
+                            ],
+                            [
+                                "2022-02-24T23:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38202.08185465751
+                            ],
+                            [
+                                "2022-02-24T23:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38203.539709991404
+                            ],
+                            [
+                                "2022-02-24T23:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38163.9527830684
+                            ],
+                            [
+                                "2022-02-24T23:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38171.02958000558
+                            ],
+                            [
+                                "2022-02-24T23:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38221.7085233734
+                            ],
+                            [
+                                "2022-02-24T23:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38215.05421422752
+                            ],
+                            [
+                                "2022-02-24T23:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38205.20632036422
+                            ],
+                            [
+                                "2022-02-24T23:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38268.36996237475
+                            ],
+                            [
+                                "2022-02-24T23:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38237.80363583542
+                            ],
+                            [
+                                "2022-02-24T23:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38109.316914345814
+                            ],
+                            [
+                                "2022-02-24T23:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38088.43525013453
+                            ],
+                            [
+                                "2022-02-24T23:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38071.27906677127
+                            ],
+                            [
+                                "2022-02-24T23:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38066.6141602671
+                            ],
+                            [
+                                "2022-02-24T23:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38020.25168959501
+                            ],
+                            [
+                                "2022-02-24T23:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37958.15181796988
+                            ],
+                            [
+                                "2022-02-24T23:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37925.17712347519
+                            ],
+                            [
+                                "2022-02-24T23:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37837.688064280745
+                            ],
+                            [
+                                "2022-02-24T22:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37837.6995356033
+                            ],
+                            [
+                                "2022-02-24T22:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37902.839060647464
+                            ],
+                            [
+                                "2022-02-24T22:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37961.93364203662
+                            ],
+                            [
+                                "2022-02-24T22:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37988.67687699664
+                            ],
+                            [
+                                "2022-02-24T22:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37957.66548677079
+                            ],
+                            [
+                                "2022-02-24T22:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37973.50478088367
+                            ],
+                            [
+                                "2022-02-24T22:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37947.47839202674
+                            ],
+                            [
+                                "2022-02-24T22:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37938.519371973416
+                            ],
+                            [
+                                "2022-02-24T22:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37973.155219964014
+                            ],
+                            [
+                                "2022-02-24T22:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38069.94206768004
+                            ],
+                            [
+                                "2022-02-24T22:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38101.632622080055
+                            ],
+                            [
+                                "2022-02-24T22:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38121.69850246005
+                            ],
+                            [
+                                "2022-02-24T22:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38211.72929869545
+                            ],
+                            [
+                                "2022-02-24T22:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38257.22082809169
+                            ],
+                            [
+                                "2022-02-24T22:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38307.513570133364
+                            ],
+                            [
+                                "2022-02-24T22:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38365.03834827314
+                            ],
+                            [
+                                "2022-02-24T22:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38394.511090501444
+                            ],
+                            [
+                                "2022-02-24T22:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38428.635925181174
+                            ],
+                            [
+                                "2022-02-24T22:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38370.80800988674
+                            ],
+                            [
+                                "2022-02-24T22:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38384.23570327692
+                            ],
+                            [
+                                "2022-02-24T22:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38414.11874141995
+                            ],
+                            [
+                                "2022-02-24T22:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38422.57045458992
+                            ],
+                            [
+                                "2022-02-24T22:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38374.83181005492
+                            ],
+                            [
+                                "2022-02-24T22:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38345.46009125328
+                            ],
+                            [
+                                "2022-02-24T22:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38372.363413339895
+                            ],
+                            [
+                                "2022-02-24T22:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38346.9009804932
+                            ],
+                            [
+                                "2022-02-24T22:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38334.831306224885
+                            ],
+                            [
+                                "2022-02-24T22:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38369.86748908494
+                            ],
+                            [
+                                "2022-02-24T22:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38387.64535588325
+                            ],
+                            [
+                                "2022-02-24T22:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38421.43259705101
+                            ],
+                            [
+                                "2022-02-24T21:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38480.51053665602
+                            ],
+                            [
+                                "2022-02-24T21:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38515.675519949924
+                            ],
+                            [
+                                "2022-02-24T21:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38459.06259044991
+                            ],
+                            [
+                                "2022-02-24T21:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38343.519854369435
+                            ],
+                            [
+                                "2022-02-24T21:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38328.79960916243
+                            ],
+                            [
+                                "2022-02-24T21:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38392.241041970876
+                            ],
+                            [
+                                "2022-02-24T21:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38422.71511805418
+                            ],
+                            [
+                                "2022-02-24T21:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38402.78611709377
+                            ],
+                            [
+                                "2022-02-24T21:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38397.56838706673
+                            ],
+                            [
+                                "2022-02-24T21:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38377.69879813337
+                            ],
+                            [
+                                "2022-02-24T21:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38329.61330862922
+                            ],
+                            [
+                                "2022-02-24T21:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38289.83606851587
+                            ],
+                            [
+                                "2022-02-24T21:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38266.25368757662
+                            ],
+                            [
+                                "2022-02-24T21:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38359.767310338284
+                            ],
+                            [
+                                "2022-02-24T21:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38376.62430919407
+                            ],
+                            [
+                                "2022-02-24T21:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38381.54232261601
+                            ],
+                            [
+                                "2022-02-24T21:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38430.14974862829
+                            ],
+                            [
+                                "2022-02-24T21:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38438.4454313166
+                            ],
+                            [
+                                "2022-02-24T21:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38412.35316947794
+                            ],
+                            [
+                                "2022-02-24T21:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38420.78047202831
+                            ],
+                            [
+                                "2022-02-24T21:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38425.96620315705
+                            ],
+                            [
+                                "2022-02-24T21:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38395.71284804946
+                            ],
+                            [
+                                "2022-02-24T21:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38316.13119305726
+                            ],
+                            [
+                                "2022-02-24T21:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38353.58743332995
+                            ],
+                            [
+                                "2022-02-24T21:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38415.48346195409
+                            ],
+                            [
+                                "2022-02-24T21:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38417.910208822206
+                            ],
+                            [
+                                "2022-02-24T21:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38376.51570982078
+                            ],
+                            [
+                                "2022-02-24T21:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38282.52017225242
+                            ],
+                            [
+                                "2022-02-24T21:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38373.31922012661
+                            ],
+                            [
+                                "2022-02-24T21:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38311.66429257743
+                            ],
+                            [
+                                "2022-02-24T20:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38326.44788869491
+                            ],
+                            [
+                                "2022-02-24T20:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38390.1402014688
+                            ],
+                            [
+                                "2022-02-24T20:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38418.0013402747
+                            ],
+                            [
+                                "2022-02-24T20:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38333.5712687408
+                            ],
+                            [
+                                "2022-02-24T20:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38186.06966607072
+                            ],
+                            [
+                                "2022-02-24T20:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38161.02838655681
+                            ],
+                            [
+                                "2022-02-24T20:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38234.90341729005
+                            ],
+                            [
+                                "2022-02-24T20:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38365.32147047764
+                            ],
+                            [
+                                "2022-02-24T20:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38484.37212834301
+                            ],
+                            [
+                                "2022-02-24T20:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38567.10986405402
+                            ],
+                            [
+                                "2022-02-24T20:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38520.80044125118
+                            ],
+                            [
+                                "2022-02-24T20:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38508.512931371486
+                            ],
+                            [
+                                "2022-02-24T20:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38482.35417174386
+                            ],
+                            [
+                                "2022-02-24T20:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38420.89138092616
+                            ],
+                            [
+                                "2022-02-24T20:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38498.75723876293
+                            ],
+                            [
+                                "2022-02-24T20:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38584.769232989085
+                            ],
+                            [
+                                "2022-02-24T20:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38707.84007186826
+                            ],
+                            [
+                                "2022-02-24T20:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38866.77286381829
+                            ],
+                            [
+                                "2022-02-24T20:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38920.924925983236
+                            ],
+                            [
+                                "2022-02-24T20:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                39099.06914631478
+                            ],
+                            [
+                                "2022-02-24T20:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38929.318301515734
+                            ],
+                            [
+                                "2022-02-24T20:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38770.511957893264
+                            ],
+                            [
+                                "2022-02-24T20:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38643.17970487926
+                            ],
+                            [
+                                "2022-02-24T20:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38467.42150538963
+                            ],
+                            [
+                                "2022-02-24T20:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38677.80936521512
+                            ],
+                            [
+                                "2022-02-24T20:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38841.4829345378
+                            ],
+                            [
+                                "2022-02-24T20:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                38249.12813185006
+                            ],
+                            [
+                                "2022-02-24T20:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37532.67336291673
+                            ],
+                            [
+                                "2022-02-24T20:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37378.046436197576
+                            ],
+                            [
+                                "2022-02-24T20:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37224.091907607544
+                            ],
+                            [
+                                "2022-02-24T19:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37196.06107934723
+                            ],
+                            [
+                                "2022-02-24T19:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37215.57769122658
+                            ],
+                            [
+                                "2022-02-24T19:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37154.58752750918
+                            ],
+                            [
+                                "2022-02-24T19:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37187.666752750076
+                            ],
+                            [
+                                "2022-02-24T19:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37207.55563250005
+                            ],
+                            [
+                                "2022-02-24T19:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37207.427872697706
+                            ],
+                            [
+                                "2022-02-24T19:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37199.68357921609
+                            ],
+                            [
+                                "2022-02-24T19:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37132.390815426574
+                            ],
+                            [
+                                "2022-02-24T19:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37100.2803452399
+                            ],
+                            [
+                                "2022-02-24T19:40:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                37088.80300915993
+                            ],
+                            [
+                                "2022-02-24T19:38:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36974.06698766658
+                            ],
+                            [
+                                "2022-02-24T19:36:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36862.51559865325
+                            ],
+                            [
+                                "2022-02-24T19:34:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36747.229580483305
+                            ],
+                            [
+                                "2022-02-24T19:32:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36704.30391263587
+                            ],
+                            [
+                                "2022-02-24T19:30:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36633.3798784532
+                            ],
+                            [
+                                "2022-02-24T19:28:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36643.38715783339
+                            ],
+                            [
+                                "2022-02-24T19:26:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36703.02552583339
+                            ],
+                            [
+                                "2022-02-24T19:24:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36703.37224025005
+                            ],
+                            [
+                                "2022-02-24T19:22:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36618.72088875008
+                            ],
+                            [
+                                "2022-02-24T19:20:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36507.662917559224
+                            ],
+                            [
+                                "2022-02-24T19:18:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36502.98710121586
+                            ],
+                            [
+                                "2022-02-24T19:16:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36462.45133391673
+                            ],
+                            [
+                                "2022-02-24T19:14:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36391.50979796062
+                            ],
+                            [
+                                "2022-02-24T19:12:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36363.6071965834
+                            ],
+                            [
+                                "2022-02-24T19:10:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36370.52727641671
+                            ],
+                            [
+                                "2022-02-24T19:08:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36408.48595738152
+                            ],
+                            [
+                                "2022-02-24T19:06:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36455.68182564771
+                            ],
+                            [
+                                "2022-02-24T19:04:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36389.59750191673
+                            ],
+                            [
+                                "2022-02-24T19:02:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36430.68793075006
+                            ],
+                            [
+                                "2022-02-24T19:00:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36485.822039333376
+                            ],
+                            [
+                                "2022-02-24T18:58:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36600.687160806534
+                            ],
+                            [
+                                "2022-02-24T18:56:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36689.835815500024
+                            ],
+                            [
+                                "2022-02-24T18:54:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36619.17389835835
+                            ],
+                            [
+                                "2022-02-24T18:52:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36403.71662518417
+                            ],
+                            [
+                                "2022-02-24T18:50:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36164.47377427506
+                            ],
+                            [
+                                "2022-02-24T18:48:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36057.28807725
+                            ],
+                            [
+                                "2022-02-24T18:46:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36062.725450125006
+                            ],
+                            [
+                                "2022-02-24T18:44:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                36055.102813342
+                            ],
+                            [
+                                "2022-02-24T18:42:00Z",
+                                null,
+                                "MA120",
+                                "BTC",
+                                7109.710947112392
+                            ]
+                        ]
+                    }
+                ],
+                "Messages": null
+            }
+        ]
+    }
+}

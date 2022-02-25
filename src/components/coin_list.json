@@ -1,0 +1,1368 @@
+{
+    "CompleteCoinList": [
+        {
+            "Symbol": "BSV",
+            "Name": "BSV"
+        },
+        {
+            "Symbol": "TVK",
+            "Name": "TVK"
+        },
+        {
+            "Symbol": "RVN",
+            "Name": "Ravencoin"
+        },
+        {
+            "Symbol": "LINA",
+            "Name": "Lina"
+        },
+        {
+            "Symbol": "JULD",
+            "Name": "JULD"
+        },
+        {
+            "Symbol": "FRONT",
+            "Name": "FRONT"
+        },
+        {
+            "Symbol": "SC",
+            "Name": "Siacoin"
+        },
+        {
+            "Symbol": "CNFI",
+            "Name": "CNFI"
+        },
+        {
+            "Symbol": "FIS",
+            "Name": "FIS"
+        },
+        {
+            "Symbol": "YLD",
+            "Name": "YLD"
+        },
+        {
+            "Symbol": "XRPBULL",
+            "Name": "XRPBULL"
+        },
+        {
+            "Symbol": "UMB",
+            "Name": "UMB"
+        },
+        {
+            "Symbol": "STPT",
+            "Name": "STPT"
+        },
+        {
+            "Symbol": "ETH",
+            "Name": "Ethereum"
+        },
+        {
+            "Symbol": "USDX",
+            "Name": "USDX"
+        },
+        {
+            "Symbol": "GT",
+            "Name": "GT"
+        },
+        {
+            "Symbol": "DIA",
+            "Name": "DIAData"
+        },
+        {
+            "Symbol": "ZIG",
+            "Name": "ZIG"
+        },
+        {
+            "Symbol": "SWAP",
+            "Name": "SWAP"
+        },
+        {
+            "Symbol": "BNB",
+            "Name": "Binance Coin"
+        },
+        {
+            "Symbol": "PROM",
+            "Name": "PROM"
+        },
+        {
+            "Symbol": "CRWNY",
+            "Name": "CRWNY"
+        },
+        {
+            "Symbol": "EOS",
+            "Name": "EOS"
+        },
+        {
+            "Symbol": "HT",
+            "Name": "Huobi Token"
+        },
+        {
+            "Symbol": "COTI",
+            "Name": "COTI"
+        },
+        {
+            "Symbol": "KEX",
+            "Name": "KEX"
+        },
+        {
+            "Symbol": "PLOT",
+            "Name": "PLOT"
+        },
+        {
+            "Symbol": "REP",
+            "Name": "Augur"
+        },
+        {
+            "Symbol": "BYN",
+            "Name": "BYN"
+        },
+        {
+            "Symbol": "AKRO",
+            "Name": "AKRO"
+        },
+        {
+            "Symbol": "AGS",
+            "Name": "AGS"
+        },
+        {
+            "Symbol": "MATIC",
+            "Name": "MATIC"
+        },
+        {
+            "Symbol": "NSURE",
+            "Name": "NSURE"
+        },
+        {
+            "Symbol": "XRPBEAR",
+            "Name": "XRPBEAR"
+        },
+        {
+            "Symbol": "SOL",
+            "Name": "Sola Token"
+        },
+        {
+            "Symbol": "INJ",
+            "Name": "INJ"
+        },
+        {
+            "Symbol": "SHOPX",
+            "Name": "SHOPX"
+        },
+        {
+            "Symbol": "NMR",
+            "Name": "Numeraire"
+        },
+        {
+            "Symbol": "KMD",
+            "Name": "Komodo"
+        },
+        {
+            "Symbol": "FIL",
+            "Name": "Filecoin Futures"
+        },
+        {
+            "Symbol": "XEND",
+            "Name": "XEND"
+        },
+        {
+            "Symbol": "ABBC",
+            "Name": "Alibabacoin"
+        },
+        {
+            "Symbol": "GEEQ",
+            "Name": "GEEQ"
+        },
+        {
+            "Symbol": "NAS",
+            "Name": "Nebulas"
+        },
+        {
+            "Symbol": "MARSH",
+            "Name": "MARSH"
+        },
+        {
+            "Symbol": "XVG",
+            "Name": "Verge"
+        },
+        {
+            "Symbol": "NXT",
+            "Name": "Nxt"
+        },
+        {
+            "Symbol": "ONE",
+            "Name": "ONE"
+        },
+        {
+            "Symbol": "OMG",
+            "Name": "OmiseGO"
+        },
+        {
+            "Symbol": "ASD",
+            "Name": "ASD"
+        },
+        {
+            "Symbol": "BTC",
+            "Name": "Bitcoin"
+        },
+        {
+            "Symbol": "ETHBEAR",
+            "Name": "ETHBEAR"
+        },
+        {
+            "Symbol": "ALGO",
+            "Name": "ALGO"
+        },
+        {
+            "Symbol": "FIO",
+            "Name": "FIO"
+        },
+        {
+            "Symbol": "CHX",
+            "Name": "Own"
+        },
+        {
+            "Symbol": "CNTR",
+            "Name": "CNTR"
+        },
+        {
+            "Symbol": "FIDA",
+            "Name": "FIDA"
+        },
+        {
+            "Symbol": "FTM",
+            "Name": "FTM"
+        },
+        {
+            "Symbol": "ONT",
+            "Name": "Ontology"
+        },
+        {
+            "Symbol": "HPB",
+            "Name": "High Performance Blockchain"
+        },
+        {
+            "Symbol": "DASH",
+            "Name": "Dash"
+        },
+        {
+            "Symbol": "KAVA",
+            "Name": "KAVA"
+        },
+        {
+            "Symbol": "USDC",
+            "Name": "USD//Coin"
+        },
+        {
+            "Symbol": "RUNE",
+            "Name": "RUNE"
+        },
+        {
+            "Symbol": "XWC",
+            "Name": "WhiteCoin"
+        },
+        {
+            "Symbol": "ZEC",
+            "Name": "Zcash"
+        },
+        {
+            "Symbol": "UNN",
+            "Name": "UNN"
+        },
+        {
+            "Symbol": "LUSD",
+            "Name": "LUSD"
+        },
+        {
+            "Symbol": "SMTY",
+            "Name": "SMTY"
+        },
+        {
+            "Symbol": "ZEE",
+            "Name": "ZEE"
+        },
+        {
+            "Symbol": "SUPER",
+            "Name": "SuperFarm"
+        },
+        {
+            "Symbol": "DOGE",
+            "Name": "Dogecoin"
+        },
+        {
+            "Symbol": "LTC",
+            "Name": "Litecoin"
+        },
+        {
+            "Symbol": "PLU",
+            "Name": "Pluton"
+        },
+        {
+            "Symbol": "HTR",
+            "Name": "HTR"
+        },
+        {
+            "Symbol": "DCR",
+            "Name": "Decred"
+        },
+        {
+            "Symbol": "MAPS",
+            "Name": "MAPS"
+        },
+        {
+            "Symbol": "BEPRO",
+            "Name": "BEPRO"
+        },
+        {
+            "Symbol": "1INCH",
+            "Name": "1INCH"
+        },
+        {
+            "Symbol": "ADEL",
+            "Name": "ADEL"
+        },
+        {
+            "Symbol": "OM",
+            "Name": "OM"
+        },
+        {
+            "Symbol": "SDN",
+            "Name": "SDN"
+        },
+        {
+            "Symbol": "ANKR",
+            "Name": "ANKR"
+        },
+        {
+            "Symbol": "OLT",
+            "Name": "OneLedger"
+        },
+        {
+            "Symbol": "EXRD",
+            "Name": "EXRD"
+        },
+        {
+            "Symbol": "XCAD",
+            "Name": "XCAD"
+        },
+        {
+            "Symbol": "CHZ",
+            "Name": "CHZ"
+        },
+        {
+            "Symbol": "VTC",
+            "Name": "Vertcoin"
+        },
+        {
+            "Symbol": "FET",
+            "Name": "FET"
+        },
+        {
+            "Symbol": "ETHBULL",
+            "Name": "ETHBULL"
+        },
+        {
+            "Symbol": "UNI",
+            "Name": "Uniswap"
+        },
+        {
+            "Symbol": "EGLD",
+            "Name": "EGLD"
+        },
+        {
+            "Symbol": "OXY",
+            "Name": "Oxycoin"
+        },
+        {
+            "Symbol": "ELF",
+            "Name": "aelf"
+        },
+        {
+            "Symbol": "PTF",
+            "Name": "PTF"
+        },
+        {
+            "Symbol": "GEO",
+            "Name": "GeoCoin"
+        },
+        {
+            "Symbol": "NORD",
+            "Name": "NORD"
+        },
+        {
+            "Symbol": "CHR",
+            "Name": "CHR"
+        },
+        {
+            "Symbol": "IOST",
+            "Name": "IOST"
+        },
+        {
+            "Symbol": "GDT",
+            "Name": "GDT"
+        },
+        {
+            "Symbol": "CUDOS",
+            "Name": "CUDOS"
+        },
+        {
+            "Symbol": "HEGIC",
+            "Name": "HEGIC"
+        },
+        {
+            "Symbol": "USDT",
+            "Name": "Tether"
+        },
+        {
+            "Symbol": "KCS",
+            "Name": "KuCoin Shares"
+        },
+        {
+            "Symbol": "CET",
+            "Name": "CoinEx Token"
+        },
+        {
+            "Symbol": "TARA",
+            "Name": "TARA"
+        },
+        {
+            "Symbol": "FTT",
+            "Name": "FarmaTrust"
+        },
+        {
+            "Symbol": "HOPR",
+            "Name": "HOPR"
+        },
+        {
+            "Symbol": "BCN",
+            "Name": "Bytecoin"
+        },
+        {
+            "Symbol": "NEO",
+            "Name": "NEO"
+        },
+        {
+            "Symbol": "AKT",
+            "Name": "AKT"
+        },
+        {
+            "Symbol": "ZIL",
+            "Name": "Zilliqa"
+        },
+        {
+            "Symbol": "BTCBULL",
+            "Name": "BTCBULL"
+        },
+        {
+            "Symbol": "XPRT",
+            "Name": "XPRT"
+        },
+        {
+            "Symbol": "BTS",
+            "Name": "BitShares"
+        },
+        {
+            "Symbol": "MOVR",
+            "Name": "MOVR"
+        },
+        {
+            "Symbol": "DAFI",
+            "Name": "DAFI"
+        },
+        {
+            "Symbol": "DOS",
+            "Name": "DOS"
+        },
+        {
+            "Symbol": "CSPR",
+            "Name": "CSPR"
+        },
+        {
+            "Symbol": "CAPS",
+            "Name": "CAPS"
+        },
+        {
+            "Symbol": "DFYN",
+            "Name": "DFYN"
+        },
+        {
+            "Symbol": "ONG",
+            "Name": "SoMee.Social"
+        },
+        {
+            "Symbol": "ORN",
+            "Name": "ORN"
+        },
+        {
+            "Symbol": "SNOW",
+            "Name": "SNOW"
+        },
+        {
+            "Symbol": "CRV",
+            "Name": "CRV"
+        },
+        {
+            "Symbol": "FREL",
+            "Name": "FREL"
+        },
+        {
+            "Symbol": "EZ",
+            "Name": "EZ"
+        },
+        {
+            "Symbol": "LSK",
+            "Name": "Lisk"
+        },
+        {
+            "Symbol": "ANT",
+            "Name": "Aragon"
+        },
+        {
+            "Symbol": "DAD",
+            "Name": "DAD"
+        },
+        {
+            "Symbol": "BTCBEAR",
+            "Name": "BTCBEAR"
+        },
+        {
+            "Symbol": "TUSD",
+            "Name": "TrueUSD"
+        },
+        {
+            "Symbol": "LINK",
+            "Name": "Chainlink"
+        },
+        {
+            "Symbol": "CKB",
+            "Name": "CKB"
+        },
+        {
+            "Symbol": "ETC",
+            "Name": "Ethereum Classic"
+        },
+        {
+            "Symbol": "DIVI",
+            "Name": "Divi"
+        },
+        {
+            "Symbol": "VET",
+            "Name": "Vechain"
+        },
+        {
+            "Symbol": "ARDR",
+            "Name": "Ardor"
+        },
+        {
+            "Symbol": "LTO",
+            "Name": "LTO"
+        },
+        {
+            "Symbol": "BCH",
+            "Name": "Bitcoin Cash"
+        },
+        {
+            "Symbol": "DEC",
+            "Name": "Darico Ecosystem Coin"
+        },
+        {
+            "Symbol": "NIOX",
+            "Name": "NIOX"
+        },
+        {
+            "Symbol": "OMI",
+            "Name": "OMI"
+        },
+        {
+            "Symbol": "XDAI",
+            "Name": "XDAI"
+        },
+        {
+            "Symbol": "VRA",
+            "Name": "VRA"
+        },
+        {
+            "Symbol": "FRM",
+            "Name": "FRM"
+        },
+        {
+            "Symbol": "BAND",
+            "Name": "BAND"
+        },
+        {
+            "Symbol": "BTG",
+            "Name": "Bitcoin Gold"
+        },
+        {
+            "Symbol": "QTUM",
+            "Name": "Qtum"
+        },
+        {
+            "Symbol": "SWINGBY",
+            "Name": "SWINGBY"
+        },
+        {
+            "Symbol": "NEAR",
+            "Name": "NEAR"
+        },
+        {
+            "Symbol": "XLM",
+            "Name": "Stellar"
+        },
+        {
+            "Symbol": "DOT",
+            "Name": "Dotcoin"
+        },
+        {
+            "Symbol": "UOS",
+            "Name": "UOS"
+        },
+        {
+            "Symbol": "XRP",
+            "Name": "Ripple"
+        },
+        {
+            "Symbol": "INFT",
+            "Name": "INFT"
+        },
+        {
+            "Symbol": "NIM",
+            "Name": "Nimiq"
+        },
+        {
+            "Symbol": "RFUEL",
+            "Name": "RFUEL"
+        },
+        {
+            "Symbol": "BOLT",
+            "Name": "BOLT"
+        },
+        {
+            "Symbol": "SNT",
+            "Name": "Status"
+        },
+        {
+            "Symbol": "HARD",
+            "Name": "HARD"
+        },
+        {
+            "Symbol": "NGM",
+            "Name": "NGM"
+        },
+        {
+            "Symbol": "LKR",
+            "Name": "LKR"
+        },
+        {
+            "Symbol": "XEM",
+            "Name": "NEM"
+        },
+        {
+            "Symbol": "ATOM",
+            "Name": "Atomic Coin"
+        },
+        {
+            "Symbol": "GTH",
+            "Name": "GTH"
+        },
+        {
+            "Symbol": "DOWS",
+            "Name": "DOWS"
+        },
+        {
+            "Symbol": "MIX",
+            "Name": "MIX"
+        },
+        {
+            "Symbol": "XMR",
+            "Name": "Monero"
+        },
+        {
+            "Symbol": "ROOM",
+            "Name": "ROOM"
+        },
+        {
+            "Symbol": "ZRX",
+            "Name": "0x"
+        },
+        {
+            "Symbol": "BTT",
+            "Name": "Blocktrade Token"
+        },
+        {
+            "Symbol": "AERGO",
+            "Name": "AERGO"
+        },
+        {
+            "Symbol": "HGET",
+            "Name": "HGET"
+        },
+        {
+            "Symbol": "DGB",
+            "Name": "DigiByte"
+        },
+        {
+            "Symbol": "CELR",
+            "Name": "CELR"
+        },
+        {
+            "Symbol": "CNS",
+            "Name": "CNS"
+        },
+        {
+            "Symbol": "FIN",
+            "Name": "FIN"
+        },
+        {
+            "Symbol": "TRX",
+            "Name": "TRON"
+        },
+        {
+            "Symbol": "SRM",
+            "Name": "SRM"
+        },
+        {
+            "Symbol": "CWS",
+            "Name": "CWS"
+        },
+        {
+            "Symbol": "ADA",
+            "Name": "Cardano"
+        },
+        {
+            "Symbol": "DVPN",
+            "Name": "DVPN"
+        },
+        {
+            "Symbol": "HAPI",
+            "Name": "HAPI"
+        },
+        {
+            "Symbol": "CRO",
+            "Name": "CRO"
+        },
+        {
+            "Symbol": "AE",
+            "Name": "Aeternity"
+        },
+        {
+            "Symbol": "JRT",
+            "Name": "JRT"
+        },
+        {
+            "Symbol": "BLOCK",
+            "Name": "Blocknet"
+        },
+        {
+            "Symbol": "QRL",
+            "Name": "Quantum Resistant Ledger"
+        },
+        {
+            "Symbol": "ROUTE",
+            "Name": "ROUTE"
+        },
+        {
+            "Symbol": "MITX",
+            "Name": "Morpheus Labs"
+        },
+        {
+            "Symbol": "STAKE",
+            "Name": "STAKE"
+        },
+        {
+            "Symbol": "WOO",
+            "Name": "WOO"
+        },
+        {
+            "Symbol": "FWT",
+            "Name": "FWT"
+        },
+        {
+            "Symbol": "PHX",
+            "Name": "Red Pulse Phoenix"
+        },
+        {
+            "Symbol": "ENJ",
+            "Name": "Enjin Coin"
+        },
+        {
+            "Symbol": "BAT",
+            "Name": "Basic Attention Token"
+        },
+        {
+            "Symbol": "XTZ",
+            "Name": "Tezos"
+        },
+        {
+            "Symbol": "OIN",
+            "Name": "OIN"
+        },
+        {
+            "Symbol": "PERP",
+            "Name": "PERP"
+        },
+        {
+            "Symbol": "EOSBULL",
+            "Name": "EOSBULL"
+        },
+        {
+            "Symbol": "MAHA",
+            "Name": "MAHA"
+        }
+    ],
+    "Change": {
+        "USD": [
+            {
+                "Symbol": "EUR",
+                "Rate": 0.8958165367732688,
+                "RateYesterday": 0.8958165367732688
+            },
+            {
+                "Symbol": "JPY",
+                "Rate": 114.91534533727491,
+                "RateYesterday": 114.91534533727491
+            },
+            {
+                "Symbol": "GBP",
+                "Rate": 0.7476753560870733,
+                "RateYesterday": 0.7476753560870733
+            },
+            {
+                "Symbol": "SEK",
+                "Rate": 9.615515542416913,
+                "RateYesterday": 9.615515542416913
+            },
+            {
+                "Symbol": "CHF",
+                "Rate": 0.9244826659500134,
+                "RateYesterday": 0.9244826659500134
+            },
+            {
+                "Symbol": "NOK",
+                "Rate": 9.03681805966138,
+                "RateYesterday": 9.03681805966138
+            },
+            {
+                "Symbol": "AUD",
+                "Rate": 1.396846725790558,
+                "RateYesterday": 1.396846725790558
+            },
+            {
+                "Symbol": "CAD",
+                "Rate": 1.2824509540446116,
+                "RateYesterday": 1.2824509540446116
+            },
+            {
+                "Symbol": "CNY",
+                "Rate": 6.324554331272955,
+                "RateYesterday": 6.324554331272955
+            },
+            {
+                "Symbol": "KRW",
+                "Rate": 1207.2919466093344,
+                "RateYesterday": 1207.2919466093344
+            }
+        ]
+    },
+    "Coins": [
+        {
+            "Symbol": "BSV",
+            "Name": "BSV",
+            "Price": 84.13222200596782,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 1641666.6783269022,
+            "Time": "2022-02-25T13:56:08.209496793Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "TVK",
+            "Name": "TVK",
+            "Price": 0.10696170865466659,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 116642.8319185848,
+            "Time": "2022-02-25T13:54:10.650018988Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "RVN",
+            "Name": "Ravencoin",
+            "Price": 0.056745024543999975,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 261622.0662416663,
+            "Time": "2022-02-25T13:56:08.205654361Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "LINA",
+            "Name": "Lina",
+            "Price": 0.01912617615999994,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 61466.25206724692,
+            "Time": "2022-02-25T13:54:10.726902468Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "JULD",
+            "Name": "JULD",
+            "Price": 0.015317182053333305,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 35896.10747351372,
+            "Time": "2022-02-25T13:54:10.646692962Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "FRONT",
+            "Name": "FRONT",
+            "Price": 0.40479420799999893,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 119258.1216081588,
+            "Time": "2022-02-25T13:54:10.704182554Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "SC",
+            "Name": "Siacoin",
+            "Price": 0.00865000000000002,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 11010.414205459221,
+            "Time": "2022-02-25T13:32:08.408098745Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "CNFI",
+            "Name": "CNFI",
+            "Price": 0.2251280095999996,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 55737.104154916764,
+            "Time": "2022-02-25T13:54:10.615925644Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "FIS",
+            "Name": "FIS",
+            "Price": 0.5823794079999994,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 58229.35806252615,
+            "Time": "2022-02-25T13:52:13.083140221Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "YLD",
+            "Name": "YLD",
+            "Price": 0.24093059119999988,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 210004.57403569057,
+            "Time": "2022-02-25T13:54:10.500773686Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "XRPBULL",
+            "Name": "XRPBULL",
+            "Price": 0.0005022409599999986,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 2268.1149327140447,
+            "Time": "2022-02-25T13:40:08.793870576Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "UMB",
+            "Name": "UMB",
+            "Price": 0.12231618359999982,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 39364.87522614098,
+            "Time": "2022-02-25T13:54:10.572485444Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "STPT",
+            "Name": "STPT",
+            "Price": 0.08491986698000001,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 19020.0701333316,
+            "Time": "2022-02-25T13:54:10.555927369Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "ETH",
+            "Name": "Ethereum",
+            "Price": 2709.7833351242057,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 120759786.71187536,
+            "Time": "2022-02-25T14:00:12.887237346Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "USDX",
+            "Name": "USDX",
+            "Price": 0.9754713349333337,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 128682.11732039326,
+            "Time": "2022-02-25T13:54:10.570039491Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "GT",
+            "Name": "GT",
+            "Price": 6.308726736000003,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 585.2627070482008,
+            "Time": "2022-02-25T13:52:12.973967526Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "DIA",
+            "Name": "DIAData",
+            "Price": 1.0562275793333336,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 54173.61130223565,
+            "Time": "2022-02-25T13:54:10.755842366Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "ZIG",
+            "Name": "ZIG",
+            "Price": 0.044609870354495304,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 129294.53998868812,
+            "Time": "2022-02-25T13:54:10.712038874Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "SWAP",
+            "Name": "SWAP",
+            "Price": 0.617716361599998,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 14483.22618054331,
+            "Time": "2022-02-25T13:52:12.833056941Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "BNB",
+            "Name": "Binance Coin",
+            "Price": 370.306738086951,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 1612907.9313682779,
+            "Time": "2022-02-25T13:54:10.548775117Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "PROM",
+            "Name": "PROM",
+            "Price": 8.46670752436363,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 36867.62736385114,
+            "Time": "2022-02-25T13:54:10.582981243Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "CRWNY",
+            "Name": "CRWNY",
+            "Price": 0.006329036479999975,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 45132.90676263965,
+            "Time": "2022-02-25T13:56:08.064214382Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "EOS",
+            "Name": "EOS",
+            "Price": 2.11490794391042,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 9720117.416774716,
+            "Time": "2022-02-25T14:00:13.037264237Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "HT",
+            "Name": "Huobi Token",
+            "Price": 9.002558545935274,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 1924662.2648032182,
+            "Time": "2022-02-25T13:54:10.599012067Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "COTI",
+            "Name": "COTI",
+            "Price": 0.2058954657413336,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 16919.446860647393,
+            "Time": "2022-02-25T13:54:10.595603826Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "KEX",
+            "Name": "KEX",
+            "Price": 0.26525726239999936,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 69283.72488077337,
+            "Time": "2022-02-25T13:54:10.528529009Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "PLOT",
+            "Name": "PLOT",
+            "Price": 0.11495515200000014,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 54180.67668880161,
+            "Time": "2022-02-25T13:56:08.154181518Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "REP",
+            "Name": "Augur",
+            "Price": 14.030612486693197,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 7554.129594419762,
+            "Time": "2022-02-25T14:00:12.925489055Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "BYN",
+            "Name": "BYN",
+            "Price": 0.14139366973333287,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 38968.28165988372,
+            "Time": "2022-02-25T13:54:10.482311941Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "AKRO",
+            "Name": "AKRO",
+            "Price": 0.01239594719999998,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 231177.63329052608,
+            "Time": "2022-02-25T14:00:13.084864345Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "AGS",
+            "Name": "AGS",
+            "Price": 0.01050503999999997,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 4089.493756288201,
+            "Time": "2022-02-25T13:30:10.565799264Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "MATIC",
+            "Name": "MATIC",
+            "Price": 1.5002307652800002,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 442423.96709231834,
+            "Time": "2022-02-25T13:54:10.675011929Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "NSURE",
+            "Name": "NSURE",
+            "Price": 0.050826885199999984,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 53695.471175830666,
+            "Time": "2022-02-25T13:54:10.478057851Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "XRPBEAR",
+            "Name": "XRPBEAR",
+            "Price": 1.060201400000005e-7,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 7.705253443595401,
+            "Time": "2022-02-25T10:00:06.985026078Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "SOL",
+            "Name": "Sola Token",
+            "Price": 90.48267584719996,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 186000.17334174132,
+            "Time": "2022-02-25T13:56:08.184063213Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "INJ",
+            "Name": "INJ",
+            "Price": 5.568671679999977,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 4196439.05166037,
+            "Time": "2022-02-25T14:00:12.919762737Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "SHOPX",
+            "Name": "SHOPX",
+            "Price": 0.12121565559999974,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 60001.00331832449,
+            "Time": "2022-02-25T13:50:15.362018336Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "NMR",
+            "Name": "Numeraire",
+            "Price": 30.0174622909525,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 15.725961362401897,
+            "Time": "2022-02-25T09:26:18.255405276Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "KMD",
+            "Name": "Komodo",
+            "Price": 0.5241529153991102,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 262.80281976798994,
+            "Time": "2022-02-25T13:34:06.241312574Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "FIL",
+            "Name": "Filecoin Futures",
+            "Price": 18.932233111999974,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 54862.30812400754,
+            "Time": "2022-02-25T13:54:10.672934875Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "XEND",
+            "Name": "XEND",
+            "Price": 0.08514084799999998,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 1330.7932356266733,
+            "Time": "2022-02-25T13:54:10.666621936Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "ABBC",
+            "Name": "Alibabacoin",
+            "Price": 0.12218862239999963,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 1302.0129436351017,
+            "Time": "2022-02-25T13:54:10.615147106Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "GEEQ",
+            "Name": "GEEQ",
+            "Price": 0.35228901760000025,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 76338.49504549857,
+            "Time": "2022-02-25T13:54:10.611888442Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "NAS",
+            "Name": "Nebulas",
+            "Price": 0.19189706640000018,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 103030.73087452917,
+            "Time": "2022-02-25T14:00:13.020415833Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "MARSH",
+            "Name": "MARSH",
+            "Price": 0.2142361173333337,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 320217.4660249135,
+            "Time": "2022-02-25T13:56:08.156854686Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "XVG",
+            "Name": "Verge",
+            "Price": 0.00919176154260004,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 17.19828,
+            "Time": "2022-02-25T12:24:09.824990589Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "NXT",
+            "Name": "Nxt",
+            "Price": 0.009649266859410217,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 433.17709975982865,
+            "Time": "2022-02-25T10:54:16.2228675Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "ONE",
+            "Name": "ONE",
+            "Price": 0.13367413279999965,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 234400.51902107662,
+            "Time": "2022-02-25T13:52:13.111800859Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "OMG",
+            "Name": "OmiseGO",
+            "Price": 3.889725404424864,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 171045.95256310733,
+            "Time": "2022-02-25T14:00:13.089962712Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        },
+        {
+            "Symbol": "ASD",
+            "Name": "ASD",
+            "Price": 0.22033334020477754,
+            "PriceYesterday": null,
+            "VolumeYesterdayUSD": 1149872.9943366095,
+            "Time": "2022-02-25T13:56:08.043599723Z",
+            "CirculatingSupply": null,
+            "ITIN": "undefined"
+        }
+    ]
+}
