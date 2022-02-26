@@ -10,12 +10,14 @@
         <div class="scroll-view" style="height: 200px" v-else>
           <div v-for="(iChange, indChange) in listChange" :key="indChange">
             <div class="view-change" style="padding-block: 6px">
-              <span class="name-coin"
-              style="margin-right: 10px;"
+              <span class="name-coin" style="margin-right: 10px"
                 >1 USD = {{ iChange.Rate.toFixed(4).toString() }}
                 {{ iChange.Symbol }}</span
               >
-              <ArrowTrend :currentV="iChange.Rate" :lastV="iChange.RateYesterday" />
+              <ArrowTrend
+                :currentV="iChange.Rate"
+                :lastV="iChange.RateYesterday"
+              />
             </div>
           </div>
         </div>
@@ -57,7 +59,34 @@
           <span style="font-size: 25px; padding-inline: 12px"
             >{{ detailCurrentCoin.price.toFixed(4).toString() }}/USDT</span
           >
-          <ArrowTrend :currentV="detailCurrentCoin.price" :lastV="detailCurrentCoin.yesterdayPrice" />
+          <ArrowTrend
+            :currentV="detailCurrentCoin.price"
+            :lastV="detailCurrentCoin.yesterdayPrice"
+          />
+          <span
+            >volume:
+            {{
+              detailCurrentCoin.VolumeYesterdayUSD.toFixed(4).toString()
+            }}</span
+          >
+        </div>
+        <div
+          style="
+            width: 100%;
+            height: 500px;
+            margin-top: 24px;
+          "
+        >
+          <div class="view-exchange" >
+            <span>Tên sàn</span>
+            <span>Giá</span>
+            <span>Cập nhật lúc</span>
+          </div>
+          <div class="view-exchange" v-for="(item, ind) in listExchange" :key="ind">
+            <span>{{item.Name}}</span>
+            <span>{{item.Price.toFixed(4).toString()}} USDT</span>
+            <span>{{formatTime(item.Time)}}</span>
+          </div>
         </div>
       </div>
     </div>
@@ -66,10 +95,11 @@
 </template>
 
 <script>
-// import axios from "axios";
-import CoinList from "./coin_list.json";
+import axios from "axios";
+
 import CoinPrice from "./price.json";
 import ArrowTrend from "./ArrowTrend.vue";
+import moment from 'moment';
 
 export default {
   components: {
@@ -87,20 +117,16 @@ export default {
       detailCurrentCoin: {
         price: 0,
         yesterdayPrice: 0,
+        VolumeYesterdayUSD: 0,
       },
       refInterval: null,
+      listExchange: [],
     };
   },
   methods: {
     getListChange() {
       this.listChange = [];
       this.isLoadingChange = true;
-      // axios
-      //   .get("URL")
-      //   .then((res) => {
-      //   this.isLoadingChange = false;
-      // })
-      //   .catch((error) => {});
 
       this.isLoadingChange = false;
 
@@ -112,19 +138,20 @@ export default {
       this.listCoin = [];
       this.isLoadingCoin = true;
       // Get list coin from api
-      // axios
-      //   .get("URL")
-      //   .then((res) => {
-      // })
-      //   .catch((error) => {});
-
-      this.isLoadingCoin = false;
-
-      const res = CoinList.CompleteCoinList;
-      this.listCoin = res;
-      if (res.length > 0) {
-        this.onSelectCoin(res[0]);
-      }
+      axios
+        .get("http://localhost:8081/v1/coins")
+        .then((res) => {
+          // Handle response after call api
+          this.listCoin = res;
+          if (res.length > 0) {
+            this.onSelectCoin(res[0]);
+          }
+          this.isLoadingCoin = false;
+        })
+        .catch(() => {
+          this.isLoadingCoin = false;
+          alert("Lỗi lấy danh sách Coin");
+        });
     },
 
     onSelectCoin(iCoin) {
@@ -132,31 +159,37 @@ export default {
       if (this.refInterval) {
         clearInterval(this.refInterval);
       }
-      let coinExist = CoinList.Coins.find((t) => t.Symbol == this.currentCoin);
-      if (coinExist) {
-        this.detailCurrentCoin = {
-          price: coinExist.Price,
-          yesterdayPrice: coinExist.VolumeYesterdayUSD,
-        };
-      } else this.getDetailCurrentCoin();
+      this.getDetailCurrentCoin();
     },
 
     getDetailCurrentCoin() {
       // Repeat function after 5second
+      this.isLoadingCurrentCoin = true;
+      this.listExchange = []
+      console.log('listExchangelistExchange', this.listExchange)
       this.refInterval = setInterval(() => {
         // Call api get detail currentCoin: price,...
-        // axios
-        //   .get("URL")
-        //   .then((res) => {
-        // })
-        //   .catch((error) => {});
-
-        this.detailCurrentCoin = {
-          price: Math.random() * 10,
-          yesterdayPrice: Math.random() * 10,
-        };
+        axios
+          .get(`http://localhost:8081/v1/symbol/${this.currentCoin}`)
+          .then((res) => {
+            this.isLoadingCurrentCoin = false;
+            this.listExchange = res.Exchanges;
+            this.detailCurrentCoin = {
+              price: res.Coin.Price,
+              yesterdayPrice: res.Coin.PriceYesterday || 0,
+              timeUpdate: res.Coin.Time,
+              VolumeYesterdayUSD: res.Coin.VolumeYesterdayUSD || 0,
+            };
+          })
+          .catch(() => {
+            this.isLoadingCurrentCoin = false;
+          });
       }, 1000);
     },
+
+    formatTime(t) {
+      return moment(t).format('DD/MM/YYYY HH:mm:ss')
+    }
   },
   created() {
     this.getListChange();
@@ -226,5 +259,13 @@ body {
   display: flex;
   padding-block: 6px;
   border-bottom: 1px solid #f1f1f1;
+}
+
+.view-exchange {
+  width: 100%;
+  justify-content: space-evenly;
+  padding-block: 10px;
+  border-bottom: 1px solid #d5d5d5;
+  display: flex;
 }
 </style>
